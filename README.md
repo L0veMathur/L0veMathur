@@ -1,5 +1,8 @@
 # 💫 About Me:
 Hi, I'm Love Mathur<br><br>I’m an aspiring Artificial Intelligence & Machine Learning engineer currently pursuing B.Tech (2nd year). I love building projects that blend creativity with logic — whether it's Python-based applications, smart automations, or clean and efficient database systems.<br><br>🚀 What I’m Working On<br><br>Exploring AI/ML, Python development, and backend logic<br><br>Creating full-stack projects using Python + SQLite with HTML/CSS/JS/React<br><br>Preparing for future studies in AI & Machine Learning abroad<br><br>🧠 Interests<br><br>Artificial Intelligence & Machine Learning<br><br>Backend development<br><br>Database Analysis<br><br>Clean, minimal, and smart app design<br><br>🛠️ Tech Stack<br><br>Languages: Python, Java, C/C++, JavaScript<br><br>Libraries: Pandas, Numpy, Collections, Openpyxl, re, TextBlobs, sklearn, tensorflow, keras, matplotlib, seaborn<br><br>Databases: SQLite, MySQL<br><br>Tools: Git, Github, VS Code, Figma, AWS, GCP, Colabs
+#### Alternate profile: LoveMathur
+[![GitHub](https://img.shields.io/badge/github-repo%3Flogo%3Dgithub)](https://github.com/LoveMathur)
+
 
 
 ## 🌐 Socials:
